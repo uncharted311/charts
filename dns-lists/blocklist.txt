@@ -1,0 +1,4 @@
+# Blocklist for PiHole & Adguard
+
+## Proton ##
+||reports.protonmail.ch^

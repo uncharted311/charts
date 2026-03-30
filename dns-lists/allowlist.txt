@@ -1,0 +1,53 @@
+# Allowlist for PiHole & Adguard
+
+## Whitelist for DNS Resolver ##
+doh.dns.apple.com
+doh.dns.apple.com.v.aaplimg.com
+local
+
+## Wireguard ##
+wireguard.com
+
+## Cloudflare DNS ##
+cloudflare-dns.com
+
+## DynDNS Provider ##
+ipv64.net
+spdns.org
+
+## Social Media ##
+youtu.be
+xz.fbcdn.net
+
+## Pampers & Basarlino ##
+api.segment.io
+braze.eu
+
+## Streaming ##
+logs.netflix.com
+
+## Google Services & GoogleAd ##
+googleadservices.com
+abs.hls.ttvnw.net
+beacons.gcp.gvt2.com
+beacons.gvt2.com
+
+## Github ##
+github.io
+camo.githubusercontent.com
+cdn.adguard.info
+
+## MyDealz ##
+mydealz.digidip.net
+app-measurement.com
+
+## Proton Services ##
+proton.me
+
+
+## Misc ##
+raindrop.io
+rdl.ink
+static.gumtree.com.au.peakhour.zone
+streetwriters.co
+ws.batch.com
