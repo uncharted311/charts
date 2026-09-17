@@ -3,7 +3,7 @@
 ## Whitelist for DNS Resolver ##
 doh.dns.apple.com
 doh.dns.apple.com.v.aaplimg.com
-local
+one.one.one.one
 
 ## Wireguard ##
 wireguard.com
