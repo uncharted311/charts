@@ -2,3 +2,13 @@
 
 ## Proton ##
 ||reports.protonmail.ch^
+
+## Ads Services Generic ##
+weather-analytics-events.apple.com
+pagead2.googleadservices.com
+
+## Amazon Ads Services ##
+adtago.s3.amazonaws.com
+analyticsengine.s3.amazonaws.com
+analytics.s3.amazonaws.com
+advice-ads.s3.amazonaws.com
