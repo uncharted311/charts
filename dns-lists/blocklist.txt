@@ -4,7 +4,6 @@
 ||reports.protonmail.ch^
 
 ## Ads Services Generic ##
-weather-analytics-events.apple.com
 pagead2.googleadservices.com
 
 ## Amazon Ads Services ##
